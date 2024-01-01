@@ -1,1 +1,1 @@
-# Retrieval-augmented-generation-RAG-on-Youtube-podcasts
+# Retrieval-augmented-generation-RAG-on-Youtube-videos
