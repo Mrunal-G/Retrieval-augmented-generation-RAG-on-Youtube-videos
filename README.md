@@ -16,4 +16,4 @@ Open the following link after running the above command:
 
 http://localhost:8501/
 
-![streamlit chatbotaudio][https://github.com/Mrunal-G/Retrieval-augmented-generation-RAG-on-Youtube-videos/blob/main/demo_img/img.png]
+![streamlit chatbotaudio](https://github.com/Mrunal-G/Retrieval-augmented-generation-RAG-on-Youtube-videos/blob/main/demo_img/img.png)
