@@ -1,6 +1,8 @@
-# Retrieval-augmented-generation-RAG-on-Youtube-videos
+# Retrieval-augmented generation (RAG) on YouTube video chatbot app
 
-This is a Streamlit application that helps you chat with your youtube audio file powered by Langchain, ChromaDB, and OpenAI.
+Containerized chatbot using Docker for Q&A and summarization on audio transcription from YouTube link by leveraging LangChain, Streamlit, Chroma vector database,  HuggingFace for sentence embeddings and OpenAI GPT and deployed it on Microsoft Azure.
+
+Basically, this is a Streamlit application that helps you chat with your youtube audio file powered by Langchain, ChromaDB, and OpenAI.
 
 normally -> streamlit run app.py
 
